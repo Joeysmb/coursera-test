@@ -5,11 +5,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Test page</title>
+    <title>My first page</title>
   </head>
-  <body>
-    <h1>Coursera test repository
-</h1>
-    <p>Hello World</p>
+  <body style="color:blue;">
+    <h1 style="color:blue;text-align:center;">Github Mate</h1>
+    <p style="color:red;">I am proud of my first page.</p>
   </body>
 </html>
